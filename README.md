@@ -1,7 +1,7 @@
-# Omijanie-wymaga-Windowsa-11
+# Omijanie-wymagań-Windowsa-11
 Program .bat pozwalający na omijanie wymagań Windowsa 11 na niewspieranych komputerach.
 
-Omijane są:
+**Omijane są:**
 - Moduł TPM
 - Procesor
 - RAM
@@ -10,7 +10,7 @@ Omijane są:
 Również, Twój komputer będzie otrzymywał prawie(!) wszystkie aktualizacje.
 
 
-Wymagania Windowsa 11:
+**Wymagania Windowsa 11:**
 - Procesor: co najmniej 2-rdzeniowy o taktowaniu 1 GHz (lub szybszy)/zgodny ze standardem System on a Chip (SoC),
 - RAM: co najmniej 4 GB,
 - Miejsce na dysku: 64 GB lub więcej,
